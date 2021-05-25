@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor Campelo</h1>
-<h3 align="center">Data Scientist | Backend Developer</h3>
-<h3 aling="center">I am a student of Computer Science undergraduate student at Universidade Federal do Piauí, Teresina-PI.</h3>
+<h3 align="center">Data Scientist | Fullstack Developer</h3>
+<h3 aling="center">I am graduated in Computer Science at Universidade Federal do Piauí, Teresina-PI.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorcampelo&row=1&column=6&margin-w=15&margin-h=15" alt="victorcampelo" /></a> </p>
 
