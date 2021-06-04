@@ -40,9 +40,6 @@
 </a>
 </p>
 
-![Snake animation](https://github.com/victorcampelo/victorcampelo/blob/output/github-contribution-grid-snake.svg)
- 
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/jvictor_cv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jvictor_cv" height="30" width="40" /></a>
