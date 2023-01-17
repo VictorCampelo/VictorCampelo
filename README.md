@@ -5,7 +5,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorcampelo&row=1&column=6&margin-w=15&margin-h=15" alt="victorcampelo" /></a> </p>
 
 # 💫 About Me:
-- 💻 I am graduated in Computer Science at Universidade Federal do Piauí, Teresina-PI
+- 💻 Full-stack developer with a passion for creating innovative solutions to complex problems. Experienced in a variety of programming languages including JavaScript, Python, and TypeScript. Strong background in both front-end and back-end development. Skilled in DevOps practices and experienced with containerization and cloud technologies. Always eager to learn and take on new challenges. Graduated from UFPI in Computer Science. Check out my Github profile for some of my recent projects and contributions.
 
 - 🔭 I’m currently working on @Devmagic
 
