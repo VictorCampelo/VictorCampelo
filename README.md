@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorcampelo&row=1&column=6&margin-w=15&margin-h=15" alt="victorcampelo" /></a> </p>
 
-- 🔭 I’m currently working on **Empreendedorismo-API**
+- 🔭 I’m currently working on **DevMagic**
 
 - 🌱 I’m currently learning **Deep learning, Clusters, Node API, NLP, Statistic**
 
