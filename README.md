@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **victor_campelo@outlook.com**
 
-- 📄 Know about my experiences: [Resume](https://victorcampelo.github.io/static/media/resume.8df82657.pdf)
+- 📄 Know about my experiences: [Resume](https://victorcampelo.github.io/static/media/resume.6c901b32d10ce88e25dd.pdf)
 
 # 💻 Tech Stack:
 ### LANGUAGES
