@@ -7,8 +7,6 @@
 # 💫 About Me:
 - 💻 Full-stack developer with a passion for creating innovative solutions to complex problems. Experienced in a variety of programming languages including JavaScript, Python, and TypeScript. Strong background in both front-end and back-end development. Skilled in DevOps practices and experienced with containerization and cloud technologies. Always eager to learn and take on new challenges. Graduated from UFPI in Computer Science. Check out my Github profile for some of my recent projects and contributions.
 
-- 🔭 I’m currently working on @Devmagic
-
 - 👯 I’m looking to collaborate on a project that combines all of the technologies mentioned: DevOps, TypeScript, JavaScript, Python, and mobile development. This could include building a large scale web application, with dynamic user experience, utilizing machine learning and data visualization, optimized for mobile devices and delivered through a reliable and efficient pipeline.
  
 - 🌱 I’m currently learning DevOps, BI  and Mobile
